@@ -1,0 +1,2 @@
+# ArtificialIntelligenceProblems
+Here will be contained various scripts (mostly in python) containing solutions to artificial intelligence problems. The code will usually be in the form of a folder with 2 files, one being the code script and the other being the question statement. Sometimes 2 other files may also be provided, one containing sample test cases and the other containing solutions to those test cases.
