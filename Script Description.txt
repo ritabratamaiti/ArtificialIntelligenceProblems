@@ -1,8 +1,0 @@
-Script Description
-
-Level of Expertise: Beginner, but requires knowledge of libraries tweepy and textblob.
-
-This python script takes in a string input from the user. Then, it uses this input as a search term for tweets from the twitter feed. After retrieving the tweets, it uses the textblob python package to perform sentiment analysis on the tweets. 
-
-Note: Sentiment analysis is shown in the following format- Sentiment(polarity=x, subjectivity=y)
-(where x and y are in range [0.0,1.0])
